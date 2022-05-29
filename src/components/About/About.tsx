@@ -19,7 +19,7 @@ export function About(){
           <h2>About me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>I'm a front end web developer with +2 years of experience. I work with agencies across the globe to create high performance & rich interactive websites that work across all platforms and devices.</p>
+          <p>I'm a front end web developer with +1 year of experience. I work with agencies across the globe to create high performance & rich interactive websites that work across all platforms and devices.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 
