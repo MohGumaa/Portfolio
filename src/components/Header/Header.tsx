@@ -3,7 +3,7 @@ import {HashRouter as Router} from 'react-router-dom'
 import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState } from 'react'
 
-import MohamedCV from '../../assets/CV_Mohamed_Gumaa_Abdalla.pdf'
+import MohamedCV from '../../assets/CV_Mohamed_Abdalla.pdf'
 export function Header() {
   const [isActive, setActive] = useState(false)
 
