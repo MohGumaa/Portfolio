@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.039bf95e.css",
-    "main.js": "/Portfolio/static/js/main.12c64ecc.js",
+    "main.js": "/Portfolio/static/js/main.e6a8eb8e.js",
     "static/media/CV_Mohamed_Abdalla.pdf": "/Portfolio/static/media/CV_Mohamed_Abdalla.4d50d25c43d20d6dcfed.pdf",
     "static/media/mine.jpg": "/Portfolio/static/media/mine.52ddeb7a1538eb72b533.jpg",
     "static/media/github.png": "/Portfolio/static/media/github.a855c3975c028d8069f5.png",
@@ -28,10 +28,10 @@
     "static/media/github-icon.svg": "/Portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/Portfolio/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.039bf95e.css.map": "/Portfolio/static/css/main.039bf95e.css.map",
-    "main.12c64ecc.js.map": "/Portfolio/static/js/main.12c64ecc.js.map"
+    "main.e6a8eb8e.js.map": "/Portfolio/static/js/main.e6a8eb8e.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.12c64ecc.js"
+    "static/js/main.e6a8eb8e.js"
   ]
 }
