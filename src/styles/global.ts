@@ -120,6 +120,21 @@ export const GlobalStyle = createGlobalStyle`
       color: var(--green);
     }
   }
-  
+ 
+  @media (max-width: 960px) {
+    .ifyikf {
+      padding: 0 3rem;
+    }
+
+    .hApYTI {
+      padding: 3rem;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .ifyikf {
+      padding: 0 1rem;
+    }
+  }
 
 `
