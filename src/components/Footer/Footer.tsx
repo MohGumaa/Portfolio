@@ -1,12 +1,13 @@
-import { Container } from './styles'
+import { Container } from "./styles";
 
-import reactIcon from '../../assets/react-icon.svg'
-import linkedinIcon from '../../assets/linkedin.png'
-import githubIcon from '../../assets/github.png'
-import instagramIcon from '../../assets/instagram.png'
-import twitterIcon from '../../assets/icons8-twitter.svg'
+import reactIcon from "../../assets/react-icon.svg";
+import linkedinIcon from "../../assets/linkedin.png";
+import githubIcon from "../../assets/github.png";
+import instagramIcon from "../../assets/instagram.png";
+import twitterIcon from "../../assets/icons8-twitter.svg";
 
 export function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
     <Container className="footer">
       <a href="/" className="logo">
@@ -14,10 +15,7 @@ export function Footer() {
         <span>Gumaa</span>
       </a>
       <div>
-        <p>
-          This website was made with <img src={reactIcon} alt="React" /> is very
-          <span>❤️</span>
-        </p>
+        <p>Copyright &copy; mgumaa.com {currentYear}</p>
       </div>
 
       <div className="social-media">
@@ -29,11 +27,7 @@ export function Footer() {
           <img src={linkedinIcon} alt="Linkedin" />
         </a>
 
-        <a
-          href="https://github.com/MohGumaa"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://github.com/MohGumaa" target="_blank" rel="noreferrer">
           <img src={githubIcon} alt="GitHub" />
         </a>
 
@@ -54,5 +48,5 @@ export function Footer() {
         </a>
       </div>
     </Container>
-  )
+  );
 }
