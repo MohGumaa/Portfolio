@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.24731aea.js",
-    "static/media/CV_Mohamed_Abdalla.pdf": "/static/media/CV_Mohamed_Abdalla.4d50d25c43d20d6dcfed.pdf",
+    "main.js": "/static/js/main.80e9c59b.js",
+    "static/media/CV_Mohamed_Abdalla.pdf": "/static/media/CV_Mohamed_Abdalla.f22b01752277046666ca.pdf",
     "static/media/mine.jpg": "/static/media/mine.52ddeb7a1538eb72b533.jpg",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
     "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
@@ -18,6 +18,7 @@
     "static/media/icons8-wordpress.svg": "/static/media/icons8-wordpress.de4449937a8127522da20340c2e4cc80.svg",
     "static/media/phone-icon.svg": "/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
     "static/media/email-icon.svg": "/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/php.svg": "/static/media/php.f9093364e2909eeb50fed1fd6afedf29.svg",
     "static/media/html-icon.svg": "/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
     "static/media/css-icon.svg": "/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
     "static/media/icons8-github.svg": "/static/media/icons8-github.4cd3a2bc790226c346ae943ec1622139.svg",
@@ -28,10 +29,10 @@
     "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.24731aea.js.map": "/static/js/main.24731aea.js.map"
+    "main.80e9c59b.js.map": "/static/js/main.80e9c59b.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.24731aea.js"
+    "static/js/main.80e9c59b.js"
   ]
 }
