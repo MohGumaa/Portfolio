@@ -8,7 +8,7 @@ export const Container = styled.section`
     text-align: center;
     h2{
       text-align: center;
-      font-size: 4rem;
+      font-size: 7rem;
     }
     p{
       color: var(--green);

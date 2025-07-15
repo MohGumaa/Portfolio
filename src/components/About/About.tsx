@@ -23,14 +23,11 @@ export function About() {
     <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
-          <h2>About me</h2>
+          <h2>💡About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>
-            I'm a front-end web developer with +{getYearDiff} years of
-            experience. I work with agencies across the globe to create
-            high-performance & rich interactive websites that work across all
-            platforms and devices.
+            I'm a Full Stack Developer with over {getYearDiff} years of experience, passionate about creating fast, scalable web applications and intuitive user experiences. I work with businesses and agencies globally to build powerful dashboards, custom websites, and cloud-integrated solutions that deliver real business value.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -39,9 +36,7 @@ export function About() {
           style={{ marginTop: "2rem", marginBottom: "2rem" }}
         >
           <p>
-            I have programming expertise such as HTML5, CSS3, SASS, BootStrap,
-            JavaScript, jQuery, ReactJS, MySQL, WordPress, PHP, Codeigniter, and
-            Laravel, and have significant exposure to UIUX research.
+            My technical skills span HTML5, CSS3, SASS, JavaScript, jQuery, React.js, Next.js, TypeScript, and Bootstrap on the frontend, with Node.js, Express.js, PHP, Laravel, and CodeIgniter on the backend. I'm also proficient with CMS platforms like WordPress and WooCommerce, and experienced in UI/UX research, prototyping (Figma), and REST API integration.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -50,9 +45,7 @@ export function About() {
           style={{ marginTop: "2rem", marginBottom: "2rem" }}
         >
           <p>
-            Proficient in developing databases, creating user interfaces,
-            writing and testing codes, troubleshooting simple/complex issues,
-            and implementing new features based on user feedback.
+            I develop custom dashboards for publishers and advertisers, implement keyword-based campaign logic, and optimize legacy systems for performance and maintainability. Tools like AWS, Git, Bitbucket, Docker, and Nginx support my DevOps workflow and deployment efficiency.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -61,13 +54,11 @@ export function About() {
           style={{ marginBottom: "2rem" }}
         >
           <p>
-            I am looking for creative ways to push the boundaries of website
-            front-end code without compromising on browser support and
-            performance. Also, I am pursuing becoming a full-stack Developer.
+            My mission is to deliver clean, efficient, and modern web solutions without compromising performance, accessibility, or cross-platform compatibility.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.7 * 1000}>
-          <h3>My Skills:</h3>
+          <h3>👨‍💻 My Technical Skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
           <div className="hability">

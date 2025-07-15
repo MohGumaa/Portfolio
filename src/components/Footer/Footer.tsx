@@ -10,10 +10,6 @@ export function Footer() {
   const currentYear = new Date().getFullYear();
   return (
     <Container className="footer">
-      <a href="/" className="logo">
-        <span>Mohd.</span>
-        <span>Gumaa</span>
-      </a>
       <div>
         <p>Copyright &copy; mgumaa.com {currentYear}</p>
       </div>
@@ -32,7 +28,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://www.instagram.com/gomaa2022/"
+          href="https://www.instagram.com/mohdgumaaabdalla"
           target="_blank"
           rel="noreferrer"
         >
@@ -40,7 +36,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://twitter.com/AbdallGumaa"
+          href="https://x.com/Mohd_Gumaa"
           target="_blank"
           rel="noreferrer"
         >
