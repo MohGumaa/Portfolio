@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.5c094f82.js",
+    "main.js": "/static/js/main.dcf22f93.js",
     "static/media/CV_Mohamed_Abdalla.pdf": "/static/media/CV_Mohamed_Abdalla.f22b01752277046666ca.pdf",
     "static/media/mine.jpg": "/static/media/mine.52ddeb7a1538eb72b533.jpg",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
@@ -26,13 +26,12 @@
     "static/media/icons8-twitter.svg": "/static/media/icons8-twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
-    "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.5c094f82.js.map": "/static/js/main.5c094f82.js.map"
+    "main.dcf22f93.js.map": "/static/js/main.dcf22f93.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.5c094f82.js"
+    "static/js/main.dcf22f93.js"
   ]
 }
